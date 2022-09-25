@@ -1,2 +1,2 @@
 # calculator
-Practicing javascript and jquery 
+Practicing javascript and git
